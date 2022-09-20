@@ -1,0 +1,13 @@
+C:\Users\utkow\Desktop\Regex_BU\bin\Debug\netcoreapp3.1\Regex_BU.exe
+C:\Users\utkow\Desktop\Regex_BU\bin\Debug\netcoreapp3.1\Regex_BU.deps.json
+C:\Users\utkow\Desktop\Regex_BU\bin\Debug\netcoreapp3.1\Regex_BU.runtimeconfig.json
+C:\Users\utkow\Desktop\Regex_BU\bin\Debug\netcoreapp3.1\Regex_BU.runtimeconfig.dev.json
+C:\Users\utkow\Desktop\Regex_BU\bin\Debug\netcoreapp3.1\Regex_BU.dll
+C:\Users\utkow\Desktop\Regex_BU\bin\Debug\netcoreapp3.1\Regex_BU.pdb
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.csprojAssemblyReference.cache
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.AssemblyInfoInputs.cache
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.AssemblyInfo.cs
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.csproj.CoreCompileInputs.cache
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.dll
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.pdb
+C:\Users\utkow\Desktop\Regex_BU\obj\Debug\netcoreapp3.1\Regex_BU.genruntimeconfig.cache
